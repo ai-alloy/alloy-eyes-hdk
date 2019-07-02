@@ -1,1 +1,1 @@
-this is for the hdk for AlloyEyes board.
+this is for the hdk for Alloy-Eyes board.
